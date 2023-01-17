@@ -39,3 +39,9 @@ The purpose of this project was to summarize Citibike rider data from NYC to pre
 ### fig. 7 ^
  
 ## Summary
+
+Two additional visualizations I would add:
+- Mapping the routes of the bikes most in need of maintenance
+- Mapping ride duration according to starting location
+
+While these findings will not translate perfectly from NYC to Des Moines, we now have good information regarding the use of rideshare bikes. I believe the most important conclusion to draw is that bike usage hugs the workday, with peaks during commute hours. This is only true for subscribed users, which tells us that our strategy should change depending on whether we look to target a subscription model or a pay-per-ride system. A smooth launch is important for a startup, so this data will allow us to predict the times and locations of peak demand and distribute bikes accordingly.
