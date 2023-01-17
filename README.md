@@ -17,18 +17,18 @@ The purpose of this project was to summarize Citibike rider data from NYC to pre
 - Ride duration is consistent throughout the day and across gender
 - Some bikes see more miles than others, which can be tracked for maintenance purposes
 
-![image](\images\usage_hours.png)
+![image](/images/usage_hours.png)
 
-![image](\images\customer_days.png)
+![image](/images/customer_days.png)
 
-![image](\images\customer_gender.png)
+![image](/images/customer_gender.png)
 
-![image](\images\customer_type.png)
+![image](/images/customer_type.png)
 
-![image](\images\duration_gender.png)
+![image](/images/duration_gender.png)
 
-![image](\images\duration_hour.png)
+![image](/images/duration_hour.png)
 
-![image](\images\maintenance.png)
+![image](/images/maintenance.png)
  
 ## Summary
