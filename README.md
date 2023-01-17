@@ -1,4 +1,4 @@
-# bikesharing
+# Analyzing rideshare data from Citibike users in NYC
 
 ## Overview
 
