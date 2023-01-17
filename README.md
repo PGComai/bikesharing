@@ -18,24 +18,24 @@ The purpose of this project was to summarize Citibike rider data from NYC to pre
 - Some bikes see more miles than others, which can be tracked for maintenance purposes (fig. 7)
 
 ![image](/images/usage_hours.png)
-### fig. 1
+### fig. 1 ^
 
 ![image](/images/customer_days.png)
-### fig. 2
+### fig. 2 ^
 
 ![image](/images/customer_gender.png)
-### fig. 3
+### fig. 3 ^
 
 ![image](/images/customer_type.png)
-### fig. 4
+### fig. 4 ^
 
 ![image](/images/duration_gender.png)
-### fig. 5
+### fig. 5 ^
 
 ![image](/images/duration_hour.png)
-### fig. 6
+### fig. 6 ^
 
 ![image](/images/maintenance.png)
-### fig. 7
+### fig. 7 ^
  
 ## Summary
